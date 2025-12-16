@@ -1,0 +1,18 @@
+filmeMatrix = ['Matrix', 1999, 8.7, True]
+print (filmeMatrix)
+
+filmsLista = ['Matrix','Batman','Simpsons',
+              'Palmeiras','Chaves','Cavaleiro dos Zodíacos']
+
+
+# 1 - Buscar os dois primeirs itens da Lista
+
+print (filmsLista [0:2])
+
+# 2 - Buscar o [ultimo filme]
+print (filmsLista[-1])
+
+# 2 - Buscar de uma posicao até uma posicao especifica
+
+print (filmsLista[1:4]) #ele sempre pula a primeira e a última posicao
+
