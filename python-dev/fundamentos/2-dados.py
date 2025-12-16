@@ -10,5 +10,3 @@ print (type(name))
 print (type(yearLaunch))
 print (type(noteMovie))
 print (type(panIncluded))
-
-
