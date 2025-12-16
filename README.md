@@ -22,3 +22,5 @@ O foco inicial é aprender:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/dispinella/Python.git
+
+.
